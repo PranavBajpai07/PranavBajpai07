@@ -6,7 +6,7 @@ Senior Full-Stack Engineer & Angular Technical Lead with 6 years building enterp
 - 🚀 Led Angular migration from v6 → v18 and rebuilt CI/CD pipelines cutting deployment time from 2–3 hours to under 30 minutes
 - 🌱 Currently sharpening: **DSA**, **SQL**, and **AWS cloud architecture**
 - 💬 Ask me about Angular, ASP.NET Core, Kafka, or football
-- 📫 Reach me at: darkvirus8004@gmail.com
+- 📫 Reach me at: bajpaipranav7@gmail.com
 
 ---
 
