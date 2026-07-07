@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Pranav%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Angular%20Tech%20Lead&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Pranav%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Angular%20Tech%20Lead&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+LTIMindtree;Angular+Tech+Lead+%7C+Full+Stack+Engineer;.NET+8+%2B+Angular+18+%2B+AWS+%2B+Kafka;Building+Enterprise-Grade+Logistics+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+LTIMindtree;Angular+Tech+Lead+%7C+Full+Stack+Engineer;.NET+8+%2B+Angular+18+%2B+AWS+%2B+Kafka;Building+Enterprise-Grade+Logistics+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-UPES%20(2016--2020)-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Location-Pune,%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.E.%20Computer%20Science-UPES%20(2016--2020)-0F2027?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Location-Pune,%20India-203A43?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/pranav-bajpai-4a8bba126"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/bajpaipranav7"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:bajpaipranav7@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/PranavBajpai07"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pranav-bajpai-4a8bba126"><img src="https://img.shields.io/badge/LinkedIn-2C5364?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/bajpaipranav7"><img src="https://img.shields.io/badge/Instagram-203A43?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:bajpaipranav7@gmail.com"><img src="https://img.shields.io/badge/Email-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/PranavBajpai07"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=PranavBajpai07&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/PranavBajpai07?label=Followers&style=flat-square&color=7C3AED"/>
-<img src="https://img.shields.io/github/stars/PranavBajpai07?label=Stars&style=flat-square&color=6D28D9"/>
+<img src="https://komarev.com/ghpvc/?username=PranavBajpai07&label=Profile%20Views&color=2C5364&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/PranavBajpai07?label=Followers&style=flat-square&color=203A43"/>
+<img src="https://img.shields.io/github/stars/PranavBajpai07?label=Stars&style=flat-square&color=0F2027"/>
 
 </div>
 
@@ -92,8 +92,6 @@ Design, AWS Cloud Architecture, and AI-assisted software development.
 ---
 
 ## 🤖 AI / ML Expertise
-
-
 
 <div align="center">
 
@@ -275,10 +273,10 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 <div align="center">
 
-<a href="https://leetcode.com/[LEETCODE_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.geeksforgeeks.org/user/[GFG_USERNAME]"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/[HACKERRANK_USERNAME]"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/[CODECHEF_USERNAME]"><img src="https://img.shields.io/badge/CodeChef-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://leetcode.com/[LEETCODE_USERNAME]"><img src="https://img.shields.io/badge/LeetCode-203A43?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/[GFG_USERNAME]"><img src="https://img.shields.io/badge/GeeksforGeeks-2C5364?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/[HACKERRANK_USERNAME]"><img src="https://img.shields.io/badge/HackerRank-0F2027?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/[CODECHEF_USERNAME]"><img src="https://img.shields.io/badge/CodeChef-0F2027?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
 </div>
 
@@ -290,12 +288,12 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranavBajpai07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBajpai07&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PranavBajpai07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=2C5364&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PranavBajpai07&theme=tokyonight&hide_border=true&background=0d1117&ring=2C5364&fire=38BDF8&currStreakLabel=38BDF8" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBajpai07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavBajpai07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" width="49%"/>
 
 </div>
 
@@ -319,7 +317,7 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavBajpai07&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavBajpai07&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=2C5364&point=ffffff" width="100%"/>
 
 </div>
 
@@ -366,10 +364,10 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:bajpaipranav7@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/pranav-bajpai-4a8bba126"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/bajpaipranav7"><img src="https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://github.com/PranavBajpai07"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:bajpaipranav7@gmail.com"><img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pranav-bajpai-4a8bba126"><img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/bajpaipranav7"><img src="https://img.shields.io/badge/Instagram-2C5364?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://github.com/PranavBajpai07"><img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -381,6 +379,6 @@ current_focus:
 
 <i>"Good architecture is invisible until it isn't — build for the day it has to scale."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer" width="100%"/>
 
 </div>
