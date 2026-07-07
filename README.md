@@ -93,14 +93,12 @@ Design, AWS Cloud Architecture, and AI-assisted software development.
 
 ## 🤖 AI / ML Expertise
 
-> ⚠️ Placeholder — no verified AI/ML project history on record. Replace with real domains/details, or remove this section.
+
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| `[DOMAIN_1]` | `[LEVEL]` | `[DETAILS — real project, tools, outcome]` |
-| `[DOMAIN_2]` | `[LEVEL]` | `[DETAILS — real project, tools, outcome]` |
 
 </div>
 
@@ -265,12 +263,9 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 ## 📜 Certifications
 
-> ⚠️ Placeholder — no certifications currently on record. Add real credential badges below.
-
 **AWS**
 
 <img width="484" height="374" alt="image" src="https://github.com/user-attachments/assets/c6bbfa17-f902-4980-9f54-cc76b2b89645" />
-
 
 <br/>
 
