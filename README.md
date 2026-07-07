@@ -269,19 +269,8 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 **AWS**
 
-`[ADD AWS CERTIFICATION BADGE]`
+<img width="484" height="374" alt="image" src="https://github.com/user-attachments/assets/c6bbfa17-f902-4980-9f54-cc76b2b89645" />
 
-**Oracle**
-
-`[ADD ORACLE CERTIFICATION BADGE]`
-
-**NPTEL**
-
-`[ADD NPTEL CERTIFICATION BADGE]`
-
-**Cisco**
-
-`[ADD CISCO CERTIFICATION BADGE]`
 
 <br/>
 
