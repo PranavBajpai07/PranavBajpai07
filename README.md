@@ -249,9 +249,9 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 |---|---|
 | Angular Modernization | Led migration of the PackIT frontend from Angular v6 to Angular v18 |
 | CI/CD Transformation | Rebuilt CI/CD pipelines, cutting deployment time from 2–3 hours to under 30 minutes |
-| API Performance | Reportedly ~40% latency reduction across core PackIT APIs |
-| Incident Response Leadership | Reportedly led ~15–20 RCAs with P1 issues resolved within 2–4 hours |
-| Mentorship | Reportedly mentored 4 junior engineers, all of whom were promoted |
+| API Performance | ~40% latency reduction across core PackIT APIs |
+| Incident Response Leadership | Led ~15–20 RCAs with P1 issues resolved within 2–4 hours |
+| Mentorship | Mentored 4 junior engineers, all of whom were promoted |
 
 </div>
 
