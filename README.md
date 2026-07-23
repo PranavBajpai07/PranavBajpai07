@@ -36,7 +36,7 @@
 
 Senior Full-Stack Engineer and Angular Technical Lead with 6+ years building
 enterprise-grade logistics and integration platforms. Currently leading
-architecture and delivery at LTIMindtree, Pune.
+architecture and delivery at LTM, Pune.
 
 Currently working on PackIT — a four-microservice enterprise logistics
 platform built for Scania, comprising a .NET 8 Web API, an Angular 18
