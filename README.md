@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Pranav%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Pranav%20Bajpai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+LTM;+%7C+Full+Stack+Engineer;.NET+8+%2B+Angular+18+%2B+AWS+%2B+Kafka;Building+Enterprise-Grade+Logistics+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%40+Cross+Country+India;Full+Stack+Engineer+%7C+AI%2FML;.NET+8+%2B+Angular+18+%2B+AWS+%2B+Kafka;Building+Enterprise-Grade+Platforms" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,25 +34,24 @@
 
 ```
 
-Senior Full-Stack Engineer and Angular Technical Lead with 6+ years building
-enterprise-grade logistics and integration platforms. Currently leading
-architecture and delivery at LTM, Pune.
+Senior Software Engineer with 6+ years building enterprise-grade logistics
+and integration platforms, now at Cross Country India, Pune, working on
+product engineering in a product-based company.
 
-Currently working on PackIT — a four-microservice enterprise logistics
-platform built for Scania, comprising a .NET 8 Web API, an Angular 18
-frontend with a Node/Express BFF, a Kafka integration service, and a batch
-job service.
+Previously at LTM, where I grew from Graduate Engineer Trainee to Angular
+Tech Lead and led development of PackIT, a four-microservice enterprise
+logistics platform built for Scania, comprising a .NET 8 Web API, an
+Angular 18 frontend with a Node/Express BFF, a Kafka integration service,
+and a batch job service.
 
 Led the Angular migration from v6 to v18 and rebuilt CI/CD pipelines, cutting
 deployment time from 2–3 hours to under 30 minutes.
 
 Building personal projects around cloud security, audit monitoring, logistics
 APIs, and full-stack Angular/.NET applications. Currently exploring System
-Design, AWS Cloud Architecture, and AI-assisted software development.
+Design, AWS Cloud Architecture, AI/ML, and AI-assisted software development.
 
 ```
-
-**🎯 Open To:** Senior Full Stack Engineer · Angular Tech Lead · Full Stack Engineering roles at product companies
 
 <br/>
 
@@ -115,14 +114,14 @@ Enterprise-grade logistics platform built for Scania, composed of four independe
 
 | | |
 |---|---|
-| **Stack** | .NET 8 (ASP.NET Core Web API) · Angular 18 · Node/Express BFF · Kafka · SQL Server → PostgreSQL (migration in progress) |
-| **Scale** | 4 microservices · multi-region (China on-prem + EU AWS) consolidation in progress |
+| **Stack** | .NET 8 (ASP.NET Core Web API) · Angular 18 · Node/Express BFF · Kafka · SQL Server → PostgreSQL migration |
+| **Scale** | 4 microservices · multi-region (China on-prem + EU AWS) consolidation |
 | **Performance** | API latency reduction efforts on core endpoints |
 | **Security** | Azure Entra ID OAuth2/OIDC, correlation ID middleware, AuthGuard-based route protection |
 | **Impact** | Reduced production incident volume post-.NET 8 migration; CI/CD pipeline rebuilt to cut deployment time significantly |
 | **Repository** | Internal — not publicly available |
 
-Led as lead developer on the ongoing initiative to consolidate the China on-premises SQL Server 2016 instance with the EU AWS instance, and to migrate the underlying database from SQL Server to PostgreSQL, targeted for completion by end of 2026.
+Led as lead developer on the initiative to consolidate the China on-premises SQL Server 2016 instance with the EU AWS instance, and to migrate the underlying database from SQL Server to PostgreSQL.
 
 </details>
 
@@ -222,15 +221,28 @@ A full-stack pharmacy inventory manager with an ASP.NET Core API and Angular fro
 
 ## 💼 Experience
 
-### Senior Software Engineer / Angular Tech Lead
-**LTIMindtree** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; 6 years experience
+### Senior Software Engineer
+**Cross Country India** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; `[MONTH YEAR]` – Present
 
-Acting as lead developer on PackIT, an enterprise logistics platform for Scania built across four microservices, and leading a major consolidation and database migration initiative.
+Working on product engineering at a product-based company in the workforce solutions and tech-enabled talent platform space.
+
+**Scope of Work**
+- `[ADD RESPONSIBILITY / PRODUCT AREA]`
+- `[ADD RESPONSIBILITY / PRODUCT AREA]`
+
+`[ADD TECH STACK USED]`
+
+<br/>
+
+### Senior Software Engineer / Angular Tech Lead
+**LTIMindtree** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Aug 2020 – `[MONTH YEAR]`
+
+Lead developer on PackIT, an enterprise logistics platform for Scania built across four microservices, including a major consolidation and database migration initiative.
 
 **Scope of Work**
 - Led Angular migration from v6 through v18 across the frontend microservice
 - Architected and maintained a .NET 8 / ASP.NET Core Web API alongside a Kafka-based integration service
-- Leading consolidation of China on-prem (SQL Server 2016) and EU AWS instances, with a parallel SQL Server → PostgreSQL migration
+- Led consolidation of China on-prem (SQL Server 2016) and EU AWS instances, with a parallel SQL Server → PostgreSQL migration
 - Rebuilt GitLab CI/CD pipelines to significantly reduce manual deployment time
 - Led 15–20 root cause analyses (RCAs) with P1 issues typically resolved within 2–4 hours
 - Mentored junior developers, with mentees advancing to promotion
@@ -341,19 +353,14 @@ Acting as lead developer on PackIT, an enterprise logistics platform for Scania 
 
 ```yaml
 current_focus:
+  working_on:
+    - Product engineering at Cross Country India
   learning:
-    - Advanced PostgreSQL migration patterns from SQL Server
-    - Distributed systems consolidation across regions
+    - System Design
+    - AWS Cloud Architecture
+    - AI/ML and AI-assisted software development
   building:
-    - PackIT China + EU consolidation (target: end of 2026)
-    - SQL Server → PostgreSQL migration
-  exploring:
-    - Senior Full Stack Engineer / Angular Tech Lead opportunities
-    - Product-company engineering culture
-  open_to:
-    - Senior Full Stack Engineer roles
-    - Angular Tech Lead roles
-    - Pune (preferred) · Bangalore · Hyderabad · Remote
+    - Personal projects around cloud security, audit monitoring, logistics APIs, and full-stack Angular/.NET apps
 ```
 
 <br/>
