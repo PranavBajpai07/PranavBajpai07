@@ -222,20 +222,20 @@ A full-stack pharmacy inventory manager with an ASP.NET Core API and Angular fro
 ## 💼 Experience
 
 ### Senior Software Engineer
-**Cross Country India** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; `[MONTH YEAR]` – Present
+**Cross Country India** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Oct 2026 – Present
 
 Working on product engineering at a product-based company in the workforce solutions and tech-enabled talent platform space.
 
 **Scope of Work**
-- `[ADD RESPONSIBILITY / PRODUCT AREA]`
-- `[ADD RESPONSIBILITY / PRODUCT AREA]`
+- 
+- 
 
-`[ADD TECH STACK USED]`
+
 
 <br/>
 
 ### Senior Software Engineer / Angular Tech Lead
-**LTIMindtree** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Aug 2020 – `[MONTH YEAR]`
+**LTIMindtree** &nbsp;|&nbsp; Pune, India &nbsp;|&nbsp; Aug 2020 – Sep 2026
 
 Lead developer on PackIT, an enterprise logistics platform for Scania built across four microservices, including a major consolidation and database migration initiative.
 
